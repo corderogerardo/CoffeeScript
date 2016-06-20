@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "chained_comparisons.js",
+  "sourceRoot": "../../../../ui",
+  "sources": [
+    "chained_comparisons.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAG,CAAA,CAAA,GAAI,CAAJ,IAAI,CAAJ,GAAQ,CAAR,CAAH;EACC,EADD;;;AAGA,IAAG,CAAA,CAAA,KAAK,CAAL,IAAK,CAAL,KAAU,CAAV,CAAH;EACC,EADD"
+}

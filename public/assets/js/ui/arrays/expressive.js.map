@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "expressive.js",
+  "sourceRoot": "../../../../../ui/arrays",
+  "sources": [
+    "expressive.coffee"
+  ],
+  "names": [],
+  "mappings": ";AACA,IAAA;;AAAA,UAAA,GAAa,SAAC,UAAD;AACZ,MAAA;AAAA;OAAA,4CAAA;;iBAAA,IAAI,CAAC,WAAL,CAAA;AAAA;;AADY;;AAEb,OAAO,CAAC,GAAR,CAAY,UAAA,CAAW,CAAC,KAAD,EAAO,KAAP,CAAX,CAAZ;;AAEA,CAAC,SAAA;SAAG,SAAA,GAAA;AAAH,CAAD,CAAA,CAAA,CAAA,CAAA"
+}
